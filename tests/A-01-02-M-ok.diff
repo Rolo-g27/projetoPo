@@ -1,0 +1,45 @@
+*** tests/A-01-02-M-ok.out	2024-10-03 22:28:52.221879500 +0100
+--- tests/A-01-02-M-ok.outhyp	2024-10-05 12:02:17.007635200 +0100
+***************
+*** 18,24 ****
+  5 - Plantar árvore
+  6 - Mostrar árvores de habitat
+  0 - Sair
+! Escolha uma opção: HABITAT|AR1|Aldeia dos Macacos|20|0
+  Gestão de Habitats
+  1 - Visualizar todos os habitats
+  2 - Registar habitat
+--- 18,24 ----
+  5 - Plantar árvore
+  6 - Mostrar árvores de habitat
+  0 - Sair
+! Escolha uma opção: Nenhum habitat registrado.
+  Gestão de Habitats
+  1 - Visualizar todos os habitats
+  2 - Registar habitat
+***************
+*** 39,45 ****
+  9 - Gestão de vacinas
+  10 - Consultas
+  0 - Sair
+! Escolha uma opção: Ficheiro sem nome. Guardar ficheiro como: Menu Principal
+  1 - Criar ficheiro
+  2 - Abrir ficheiro
+  3 - Guardar ficheiro
+--- 39,45 ----
+  9 - Gestão de vacinas
+  10 - Consultas
+  0 - Sair
+! Escolha uma opção: Menu Principal
+  1 - Criar ficheiro
+  2 - Abrir ficheiro
+  3 - Guardar ficheiro
+***************
+*** 51,54 ****
+--- 51,55 ----
+  9 - Gestão de vacinas
+  10 - Consultas
+  0 - Sair
++ Escolha uma opção: Número inválido!
+  Escolha uma opção: 
+\ No newline at end of file

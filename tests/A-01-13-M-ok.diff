@@ -1,0 +1,50 @@
+*** tests/A-01-13-M-ok.out	2024-10-03 22:29:38.622039700 +0100
+--- tests/A-01-13-M-ok.outhyp	2024-10-05 12:02:19.548439800 +0100
+***************
+*** 16,27 ****
+  3 - Transferir para habitat
+  4 - Calcular satisfação de animal
+  0 - Sair
+! Escolha uma opção: ANIMAL|A1|Farrusco 1|E1|VOID|H1
+! ANIMAL|A2|Farrusco 2|E2|VOID|H1
+! ANIMAL|A3|Farrusco 3|E3|VOID|H2
+! ANIMAL|B1|Farrusco 4|E3|VOID|H2
+! ANIMAL|X1|Farrusco 5|E2|VOID|H3
+! ANIMAL|X2|Farrusco 6|E1|VOID|H3
+  Gestão de Animais
+  1 - Visualizar todos os animais
+  2 - Registar animal
+--- 16,22 ----
+  3 - Transferir para habitat
+  4 - Calcular satisfação de animal
+  0 - Sair
+! Escolha uma opção: Nenhum animal registado.
+  Gestão de Animais
+  1 - Visualizar todos os animais
+  2 - Registar animal
+***************
+*** 40,46 ****
+  9 - Gestão de vacinas
+  10 - Consultas
+  0 - Sair
+! Escolha uma opção: Ficheiro sem nome. Guardar ficheiro como: Menu Principal
+  1 - Criar ficheiro
+  2 - Abrir ficheiro
+  3 - Guardar ficheiro
+--- 35,41 ----
+  9 - Gestão de vacinas
+  10 - Consultas
+  0 - Sair
+! Escolha uma opção: Menu Principal
+  1 - Criar ficheiro
+  2 - Abrir ficheiro
+  3 - Guardar ficheiro
+***************
+*** 52,55 ****
+--- 47,51 ----
+  9 - Gestão de vacinas
+  10 - Consultas
+  0 - Sair
++ Escolha uma opção: Número inválido!
+  Escolha uma opção: 
+\ No newline at end of file
